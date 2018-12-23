@@ -1,0 +1,9 @@
+# Compiled python modules.
+*.pyc
+__pycache__
+
+# ipython notebook checkpoints
+.ipynb_checkpoints
+
+# Mac files
+.DS_Store
