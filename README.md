@@ -8,4 +8,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* A big thanks to all of my friends that supplied their voices for this demo!
+* A big thanks to all of my friends that support my posts and lend their thoughts and opinions on my work. 
